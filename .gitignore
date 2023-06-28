@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Megascans/3D_Assets/Modular_Stair_And_Handrail_Kit_wczwafvdw/T_Modular_Stair_And_Handrail_Kit_wczwafvdw_8K_D.uasset
+*.uasset
