@@ -80,7 +80,9 @@ Content/FPWeapon/*
 Content/Geometry/*
 Content/LevelPrototyping/*
 Content/Map/*
-Content/Megascans/*
+Content/Megascans/3D_Plants/*
+Content/Megascans/Atlases/*
+Content/Megascans/Blend/*
 Content/MS_CrumbledWa/*
 Content/MSPresets/*
 Content/Particles/*
