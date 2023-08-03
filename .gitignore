@@ -74,4 +74,16 @@ Plugins/*/Intermediate/*
 Content/Megascans/*
 Content/BrutalistLevelKit/*
 Content/BigNiagaraBundle/*
-Content/*
+Content/Characters/*
+Content/Cinematics/*
+Content/FPWeapon/*
+Content/Geometry/*
+Content/LevelPrototyping/*
+Content/Map/*
+Content/Megascans/*
+Content/MS_CrumbledWa/*
+Content/MSPresets/*
+Content/Particles/*
+Content/Skybox/*
+Content/StarterContent/*
+
